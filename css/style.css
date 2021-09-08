@@ -4,3 +4,24 @@
     box-sizing: border-box;
 }
 
+.contenitore_scarpe {
+    height: 100vh;
+    background-color: red;
+}
+
+.articolo{
+    margin: auto;
+    width: 700px;
+}
+
+.articolo img {
+    height: 500px;
+    width: 700px;
+}
+
+.articolo h2 {
+    text-align: center;
+    color: yellow;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
