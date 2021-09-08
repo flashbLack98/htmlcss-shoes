@@ -11,6 +11,7 @@
     background-color: red;
     position: relative;
     z-index: -1;
+    overflow: hidden;
 }
 
 .background_green{
@@ -21,6 +22,7 @@
     background-color: yellow;
 }
 
+/* BOTTONI */
 .contenitore_link {
   position: fixed;
   right: 0;
@@ -44,6 +46,8 @@
     border-radius: 500%;
     color: black;
 }
+/* FINE BOTTONI */
+
 
 .articolo{
     margin: auto;
